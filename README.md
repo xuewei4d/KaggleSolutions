@@ -1,3 +1,5 @@
+Forked from [chioka.in](http://www.chioka.in/kaggle-competition-solutions/).
+
 We learn more from code, and from great code. Not necessarily always the 1st ranking solution, because we also learn what makes a stellar and just a good solution. I will post solutions I came upon so we can all learn to become better!
 
 I collected the following source code and interesting discussions from the Kaggle held competitions for learning purposes. Not all competitions are listed because I am only manually collecting them, also some competitions are not listed due to no one sharing. I will add more as time goes by. Thank you.
